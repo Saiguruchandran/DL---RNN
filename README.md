@@ -22,8 +22,6 @@ Predict on test data, plot actual vs. predicted prices.
 ### Register Number:212223240143
 ```python
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 import numpy as np
 import pandas as pd
